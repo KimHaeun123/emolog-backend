@@ -1,4 +1,4 @@
-package com.emolog.emolog_backend;
+package com.emolog;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

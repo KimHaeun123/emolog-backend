@@ -1,4 +1,4 @@
-package com.emolog.emolog_backend;
+package com.emolog;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
